@@ -1,0 +1,10 @@
+# List of dependencies
+streamlit
+selenium
+beautifulsoup4
+openai
+python-dotenv
+plotly
+faiss-cpu
+langchain
+ollama
